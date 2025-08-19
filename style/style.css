@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Garamond';
+    box-sizing: border-box;
+}
+
+h1, h2, li {
+    padding: 8px;
+    /* text-align: center; */
+}
+
+h2 {
+    margin: 0 0 8px 0;
+}
+
+.list {
+    width: 248px;
+    /* margin: 0 auto; */
+    text-align: center;
+    list-style: none;
+    border: 4px dotted black;
+    margin: 8px;
+}
+
+.link {
+    font-size: 1.5rem;
+}
+
